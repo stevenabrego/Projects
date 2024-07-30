@@ -26,3 +26,8 @@ Designed and built a fully autonomus robot capable of navigating a predetermined
 
 # EE 157: Electric Motors for Renewable Energy, Robotics, and Electric Vehicles
 Designed and built (3D-printed) an axial-flux 3-phase permanent magnet motor capable of 4000+ rpm.
+https://github.com/stevenabrego/Projects/blob/bc3b49bd9796e0db5d8bb4b66b228920468c7489/EE_157_Final_Report.pdf
+
+
+# EE 101B: Circuits II
+Built a stereo system using a Class D amplifier and a bluetooth audio connector to be able to wirelessly play music from any bluetooth device.
