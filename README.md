@@ -23,6 +23,7 @@ Built a cell phone charger using a step-down transformer, a rectifier, and a fly
 
 # EE 118: Introduction to Mechatronics
 Designed and built a fully autonomus robot capable of navigating a predetermined course using an Arduino microcontroller.
+https://sites.google.com/stanford.edu/srvxslackbot/home?authuser=1
 
 
 
