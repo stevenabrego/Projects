@@ -5,10 +5,17 @@ Steven Abrego's class projects/labs for various EE classes at Stanford Universit
 ### Summary of Projects:
 
 # EE 356A: Resonanrt Converters
-Designed and built a 25W DC-DC Wireless Power Transfer Converter using a \Phi-2 Inverter
+Designed, simulated, and built a 25W DC-DC Wireless Power Transfer Converter using a &Phi-2 Inverter. The converter was driven at 6.78 MHz and achieved a maximum drain efficiency of 92.66%.
+
+
 
 # EE 114: Fundamentals of Analog Integrated Circuit Design 
-Designed a three-stage transimpedance amplifier at the transistor-level. Was able to meet all required specifications (< 2mW Power Dissipation, 70 MHz bandwidth, > 40,000 Gain) with given node technology.
+Designed and simulated a three-stage transimpedance amplifier at the transistor-level. Was able to meet all required specifications (< 2mW Power Dissipation, 70 MHz bandwidth, > 40,000 Gain) with given node technology.
+
+
+
+# EE 153: Power Electronics
+Built a cell phone charger using a step-down transformer, a rectifier, and a flyback converter to convert 120V AC from a wall outlet to produce a 5V DC output capable of charging a cell phone.
 
 
 
