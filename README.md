@@ -6,11 +6,13 @@ Steven Abrego's class projects/labs for various EE classes at Stanford Universit
 
 # EE 356A: Resonant Converters
 Designed, simulated, and built a 25W DC-DC Wireless Power Transfer Converter using a Φ-2 Inverter. The converter was driven at 6.78 MHz and achieved a maximum drain efficiency of 92.66 %.
+https://github.com/stevenabrego/Projects/blob/main/EE_356A_Final_Project.pdf
 
 
 
 # EE 114: Fundamentals of Analog Integrated Circuit Design 
 Designed and simulated a three-stage transimpedance amplifier at the transistor-level. Was able to meet all required specifications (< 2mW Power Dissipation, 70 MHz bandwidth, > 40,000 Gain) with given node technology.
+https://github.com/stevenabrego/Projects/blob/main/EE_114_Final_Project.pdf
 
 
 
