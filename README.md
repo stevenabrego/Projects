@@ -8,7 +8,7 @@ https://github.com/stevenabrego/Projects/blob/main/EE_356A_Final_Project.pdf
 
 
 # EE 315: Analog-Digital Interface Circuits
-Designed and simulated a 10-bit SAR ADC in Cadence Virtuoso. The ADC has a maximum switching frequency of 98.1 MHz and dissipated 617.6 µW with a peak SNDR of 55.9 dB. This ADC was designed using 90 nm technology.\
+Designed and simulated a 10-bit SAR ADC in Cadence Virtuoso. The ADC has a maximum switching frequency of 98.1 MHz and dissipates 617.6 µW with a peak SNDR of 55.9 dB. This ADC was designed using 90 nm technology.\
 https://github.com/stevenabrego/Projects/blob/main/EE_315_Final_Project.pdf
 
 
