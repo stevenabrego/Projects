@@ -19,8 +19,8 @@ https://github.com/stevenabrego/Projects/blob/main/EE_114_Final_Project.pdf
 
 
 
-# EE 256: Board Level Design 
-Designed and assembled a 4-Layer PCB IoT Alarm Clock. The PCB was designed using KiCad v8.0.\
+# EE 256: Board Level Design
+Designed and assembled a 4-Layer PCB IoT Alarm Clock with an ATSAMD51J19A microcontroller. The PCB was designed using KiCad v8.0 and was programmed using CircuitPython in Mu Editor.\
 https://github.com/stevenabrego/Projects/blob/main/EE_256_Final_Report.pdf
 
 
