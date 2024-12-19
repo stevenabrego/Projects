@@ -19,8 +19,14 @@ https://github.com/stevenabrego/Projects/blob/main/EE_114_Final_Project.pdf
 
 
 
+# EE 256: Board Level Design 
+Designed and assembled a 4-Layer PCB IoT Alarm Clock. The PCB was designed using KiCad v8.0.\
+https://github.com/stevenabrego/Projects/blob/main/EE_256_Final_Report.pdf
+
+
+
 # EE 153: Power Electronics
-Built a cell phone charger using a step-down transformer, a rectifier, and a flyback converter to convert 120V AC from a wall outlet to produce a 5V DC output capable of charging a cell phone.\
+Built a cell phone charger using a step-down transformer, a rectifier, and a flyback converter to convert 120V AC from a wall outlet to produce a 5V DC output capable of charging a cell phone.
 
 
 
