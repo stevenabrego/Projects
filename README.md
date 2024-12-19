@@ -7,6 +7,12 @@ https://github.com/stevenabrego/Projects/blob/main/EE_356A_Final_Project.pdf
 
 
 
+# EE 315: Analog-Digital Interface Circuits
+Designed and simulated a 10-bit SAR ADC in Cadence Virtuoso. The ADC has a maximum switching frequency of 98.1 MHz and dissipated 617.6 µW with a peak SNDR of 55.9 dB. This ADC was designed using 90 nm technology.\
+https://github.com/stevenabrego/Projects/blob/main/EE_315_Final_Project.pdf
+
+
+
 # EE 114: Fundamentals of Analog Integrated Circuit Design 
 Designed and simulated a three-stage transimpedance amplifier at the transistor-level. Was able to meet all required specifications (< 2mW Power Dissipation, 70 MHz bandwidth, > 40,000 Gain) with given node technology.\
 https://github.com/stevenabrego/Projects/blob/main/EE_114_Final_Project.pdf
